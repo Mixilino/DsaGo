@@ -28,3 +28,9 @@ func CrystalBallSearch(list []int, target int) int {
 	}
 	return -1
 }
+
+func RealCrystalBallSearch(list []int) int {
+	// TODO: implement real crystal ball search
+	// Receive []int{0,0,0,0,1,1} and return 4...
+	return -1
+}
